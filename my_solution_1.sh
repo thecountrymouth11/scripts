@@ -1,5 +1,11 @@
 #!/bin/bash
 
+<< practice
+this is my solution 
+for the Day-1 task of
+BashBlaze-7-Days-of-Bash-Scripting-Challenge
+practice
+
 #TASK-1: Comments
 #This is a single line comment
 << comment
